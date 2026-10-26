@@ -1,0 +1,12 @@
+# data and model outputs (data are on Zenodo)
+data/
+*.npy
+*.npz
+*.pt
+MKNPCNN_study/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env

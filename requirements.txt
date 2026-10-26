@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch>=2.0
+matplotlib
+statsmodels
+pymatgen==2025.10.7
+umap-learn  # optional, for UMAP projections in analyze.py --what viz
